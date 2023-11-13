@@ -46,7 +46,7 @@ $PARAMETERS['database']['url'] = 'mariadb';        //indirizzo ip del database
 
 /* INFORMAZIONI SUL SITO */
 $PARAMETERS['info']['site_name'] = 'GDRCD 5.6.0.5'; //nome del gioco
-$PARAMETERS['info']['site_url'] = 'http://gdr.lukakiro.dev/'; //indirizzo URL del gioco
+$PARAMETERS['info']['site_url'] = 'https://gdr.lukakiro.dev/'; //indirizzo URL del gioco
 $PARAMETERS['info']['webmaster_name'] = 'Webmaster'; //nome e cognome del responsabile del sito
 $PARAMETERS['info']['webmaster_email'] = 'webmaster@gdrhost.it'; //email ufficiale del webmaster (è visibile in homepage)
 $PARAMETERS['info']['homepage_name'] = 'Homepage'; //nome con il quale si indica la prima pagina visualizzata
